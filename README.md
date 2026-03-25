@@ -14,6 +14,8 @@ Discoverex는 다음 흐름을 중심으로 구성된다.
 
 즉, 프론트엔드, API, 생성 엔진, orchestration, 데이터/모델 파이프라인이 분리된 멀티레포 구조로 운영되는 AI 게임 플랫폼이다.
 
+### 프레젠테이션 링크:  [PPT]<https://canva.link/khr05y1ba0pm5kw> 
+
 ## 레포 구성
 
 | Repository | Link | Role |
